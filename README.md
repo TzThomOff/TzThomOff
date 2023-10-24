@@ -3,18 +3,3 @@ I'm **TzThom**, An developer from somewhere in the earth. I like to code web app
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ✨ About Me ✨</h2>
-
-```js
-const Sudhan = {
-    FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 77,
-    OpenedPullRequests: 67,
-    TotalCommits: 12949,
-    Stars: 1718,
-    Repositories: {
-       Created: 183,
-       Contributed: 13
-    },
-}; //I'm a Epic Object, UwU
-```
