@@ -1,5 +1,5 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/148391168?v=4" width="200" />
-I'm **Sudhan**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+I'm **TzThom**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
@@ -18,20 +18,3 @@ const Sudhan = {
     },
 }; //I'm a Epic Object, UwU
 ```
-  
-<h2 align="center"> 🚀 My Stats 🚀</h2>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
-</p>
-<details>
-  <summary>
-      Even more stats
-  </summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-  </p>
-</details>
-  
-<!-- Last updated on Tue Oct 24 2023 06:18:00 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 24th October 2023 using magic</i> ✨ 
