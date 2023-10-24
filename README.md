@@ -1,14 +1,37 @@
-### Hi there, I’m Jobin 👋
-## I’m a Husband, Father, Devops, and System Administrator!
-- 🔭 I’m currently working on a nothing
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
-- 🥅 2020 Goals: Study and contribute to Opensource projects
-- ⚡ Fun fact: I love to travel
-### Connect with me:
-[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[website]: https://devopsbyte.com
-[instagram]: https://instagram.com/jobin_james_ride
-[linkedin]: https://linkedin.com/in/jjames-
+## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
+I'm **Sudhan**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+  
+Thanks for visiting my github profile. Have a great day ahead!~
+  
+<h2 align="center"> ✨ About Me ✨</h2>
+
+```js
+const Sudhan = {
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: 77,
+    OpenedPullRequests: 67,
+    TotalCommits: 12949,
+    Stars: 1718,
+    Repositories: {
+       Created: 183,
+       Contributed: 13
+    },
+}; //I'm a Epic Object, UwU
+```
+  
+<h2 align="center"> 🚀 My Stats 🚀</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+</p>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+  </p>
+</details>
+  
+<!-- Last updated on Tue Oct 24 2023 06:18:00 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 24th October 2023 using magic</i> ✨ 
